@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318447192138",
+    "project_id": "pawtrack-14611",
+    "storage_bucket": "pawtrack-14611.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318447192138:android:e1d951885a42a4cacbfeb3",
+        "android_client_info": {
+          "package_name": "com.example.pawtrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHTiNTY1Xks9YQl3PYHRzdoSFUlEH5RMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

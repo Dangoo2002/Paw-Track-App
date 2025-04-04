@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">PawTrack</string>
+    <string name="gcm_defaultSenderId" translatable="false">318447192138</string>
+    <string name="google_api_key" translatable="false">AIzaSyCHTiNTY1Xks9YQl3PYHRzdoSFUlEH5RMM</string>
+    <string name="google_app_id" translatable="false">1:318447192138:android:e1d951885a42a4cacbfeb3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCHTiNTY1Xks9YQl3PYHRzdoSFUlEH5RMM</string>
+    <string name="google_storage_bucket" translatable="false">pawtrack-14611.firebasestorage.app</string>
+    <string name="project_id" translatable="false">pawtrack-14611</string>
+    <style name="AppTheme" parent="Theme.Material3.Dark">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>

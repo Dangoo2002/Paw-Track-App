@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.pawtrack.app-mergeDebugResources-49:/layout/dialog_remove_dog.xml",
+        "source": "com.example.pawtrack.app-main-52:/layout/dialog_remove_dog.xml"
+    },
+    {
+        "merged": "com.example.pawtrack.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.example.pawtrack.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.pawtrack.app-mergeDebugResources-49:/layout/event_item.xml",
+        "source": "com.example.pawtrack.app-main-52:/layout/event_item.xml"
+    },
+    {
+        "merged": "com.example.pawtrack.app-mergeDebugResources-49:/layout/dialog_add_event.xml",
+        "source": "com.example.pawtrack.app-main-52:/layout/dialog_add_event.xml"
+    },
+    {
+        "merged": "com.example.pawtrack.app-mergeDebugResources-49:/layout/dialog_add_dog.xml",
+        "source": "com.example.pawtrack.app-main-52:/layout/dialog_add_dog.xml"
+    }
+]

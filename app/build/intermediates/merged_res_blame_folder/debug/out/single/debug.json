@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.pawtrack.app-merged_res-50:/layout_dialog_add_dog.xml.flat",
+        "source": "com.example.pawtrack.app-main-52:/layout/dialog_add_dog.xml"
+    },
+    {
+        "merged": "com.example.pawtrack.app-merged_res-50:/drawable_neumorphic_card.xml.flat",
+        "source": "com.example.pawtrack.app-main-52:/drawable/neumorphic_card.xml"
+    },
+    {
+        "merged": "com.example.pawtrack.app-merged_res-50:/layout_activity_main.xml.flat",
+        "source": "com.example.pawtrack.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.pawtrack.app-merged_res-50:/layout_dialog_remove_dog.xml.flat",
+        "source": "com.example.pawtrack.app-main-52:/layout/dialog_remove_dog.xml"
+    },
+    {
+        "merged": "com.example.pawtrack.app-merged_res-50:/mipmap-anydpi_ic_launcher.png.flat",
+        "source": "com.example.pawtrack.app-main-52:/mipmap-anydpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.pawtrack.app-merged_res-50:/drawable_nav_gradient.xml.flat",
+        "source": "com.example.pawtrack.app-main-52:/drawable/nav_gradient.xml"
+    },
+    {
+        "merged": "com.example.pawtrack.app-merged_res-50:/layout_dialog_add_event.xml.flat",
+        "source": "com.example.pawtrack.app-main-52:/layout/dialog_add_event.xml"
+    },
+    {
+        "merged": "com.example.pawtrack.app-merged_res-50:/drawable_gradient_background.xml.flat",
+        "source": "com.example.pawtrack.app-main-52:/drawable/gradient_background.xml"
+    },
+    {
+        "merged": "com.example.pawtrack.app-merged_res-50:/layout_event_item.xml.flat",
+        "source": "com.example.pawtrack.app-main-52:/layout/event_item.xml"
+    }
+]
